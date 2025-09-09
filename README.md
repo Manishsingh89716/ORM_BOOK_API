@@ -29,7 +29,7 @@ This project demonstrates CRUD operations using **FastAPI**, **SQLAlchemy**, and
 
 1. Clone the repository:
 ```bash
-git clone <repo_link>
+git clone https://github.com/Manishsingh89716/ORM_BOOK_API
 cd CRUD_BOOK_API
 
 Create a virtual environment:
